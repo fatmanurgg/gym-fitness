@@ -1,0 +1,15 @@
+[
+  {
+    "key": "Accueil",
+    "url": "/"
+  },
+  {
+    "key": "Inscriptions",
+    "url": "/inscriptions/",
+    "children": []
+  },
+  {
+    "key": "Coaching",
+    "url": "/coaching/"
+  }
+]
